@@ -65,10 +65,6 @@ switch:
 
 climate:
   labelTemplates: []
-  icon: mdi:thermometer
-  states:
-    on:
-      icon: mdi:thermometer-high
 
 light:
   labelTemplates: []
