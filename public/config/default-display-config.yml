@@ -65,10 +65,10 @@ switch:
 
 climate:
   labelTemplates: []
-  icon: mdi:thermometer-off
+  icon: mdi:lightbulb
   states:
     on:
-      icon: mdi:thermometer-high
+      icon: mdi:lightbulb-alert
 
 light:
   labelTemplates: []
