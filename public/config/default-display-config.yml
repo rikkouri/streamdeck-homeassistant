@@ -62,13 +62,13 @@ switch:
   states:
     on:
       icon: mdi:toggle-switch
-      
+
 climate:
   labelTemplates: []
-  icon: mdi:toggle-switch-off
+  icon: mdi:thermometer-off
   states:
     on:
-      icon: mdi:toggle-switch
+      icon: mdi:thermometer-high
 
 light:
   labelTemplates: []
