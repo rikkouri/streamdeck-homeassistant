@@ -62,6 +62,13 @@ switch:
   states:
     on:
       icon: mdi:toggle-switch
+      
+climate:
+  labelTemplates: []
+  icon: mdi:toggle-switch-off
+  states:
+    on:
+      icon: mdi:toggle-switch
 
 light:
   labelTemplates: []
